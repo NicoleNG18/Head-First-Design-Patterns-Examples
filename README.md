@@ -1,5 +1,5 @@
 # Head First Design Patterns Examples
 
-1. [Strategy pattern](https://github.com/NicoleNG18/Head-First-Design-Patterns-Examples/tree/master/StrategyPattern)
+1. [Strategy pattern](https://github.com/NicoleNG18/Head-First-Design-Patterns-Examples/tree/master/StrategyPattern) - Favor composition over inheritance by encapsulating varying behaviors into interchangeable objects that can be swapped at runtime.
 
 
