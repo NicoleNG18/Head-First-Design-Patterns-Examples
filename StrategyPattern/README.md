@@ -1,4 +1,4 @@
-# 🦆 Strategy Pattern | Design Patterns
+# 🦆 Strategy Pattern
 
 [![Pattern: Strategy](https://img.shields.io/badge/Pattern-Strategy-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Strategy_pattern)
 
