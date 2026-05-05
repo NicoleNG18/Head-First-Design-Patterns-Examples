@@ -25,3 +25,7 @@ Standard inheritance leads to several issues:
 ## 🚀 Implementation
 
 Implementation can be found [here](src/duck)
+
+## UML diagram
+
+![Diagram](images/UML.png)
