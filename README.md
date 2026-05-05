@@ -1,2 +1,5 @@
-# Head-First-Design-Patterns-Examples
-Repository containing examples from Head First Design Patterns Book 2nd Edition
+# Head First Design Patterns Examples
+
+1. [Strategy pattern](https://github.com/NicoleNG18/Head-First-Design-Patterns-Examples/tree/master/StrategyPattern)
+
+
